@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Akshat Sah</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img align="right" alt="Coding" width="400" src="https://i.gifer.com/origin/c7/c7327a533d601736bc5d878f74ca2f1b_w200.webp">
+<img align="right" alt="Coding" width="400" src="https://imgs.search.brave.com/K0B5A-df96wQDs9Twgkco0Fvl1ys37qad4MUOfs_7BM/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9tZWRp/YTMuZ2lwaHkuY29t/L21lZGlhLzFrNFVq/a2dUVGNRRUVEcTVt/Ni9naXBoeS5naWY_/Y2lkPTc5MGI3NjEx/aDliN2tpeWs0ZGZx/ZGhqY28wNzA0Mm0x/ZWc5ZzJjd2lmdHly/MzJ2diZlcD12MV9n/aWZzX3NlYXJjaCZy/aWQ9Z2lwaHkuZ2lm/JmN0PWc.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshatsah7&label=Profile%20views&color=0e75b6&style=flat" alt="akshatsah7" /> </p>
 
